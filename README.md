@@ -1,4 +1,4 @@
-# Sharing Deck Generator
+# Product Manager Internal Sharing Deck Generator
 
 一个面向内部分享/述职/答辩场景的 Skill，用于把零散素材自动整理为**一页纸高密度汇报**与**完整答辩报告**。
 
